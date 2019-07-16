@@ -2,6 +2,6 @@
  "calories":[
  {"id": 1, "food": "bakso", "calory": 100},
  {"id": 2, "food": "coto", "calory": 100},
- {"id": 3, "food": "Mie Ayam", "calory": 100},
- ]
+ {"id": 3, "food": "Mie Ayam", "calory": 100}
+ 
 }
