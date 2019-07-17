@@ -1,16 +1,7 @@
 {
 "guru":[
- {"id": 1,
-  "nama": "Muhammad Askar",
-  "jk": "Laki-laki",
-  "bidangStudi": "Teknik Informatika"},
- {"id": 2,
-  "nama": "Muhammad Aswad",
-  "jk": "Laki-laki",
-  "bidangStudi": "Teknik Konstruksi Bangunan"},
- {"id": 3,
-  "nama": "Maulidya",
-  "jk": "Perempuan",
-  "bidangStudi": "Tahfiz"}
+ {"id": 1, "nama": "Muhammad Askar", "jk": "Laki-laki", "bidangStudi": "Teknik Informatika"},
+ {"id": 2, "nama": "Muhammad Aswad", "jk": "Laki-laki", "bidangStudi": "Teknik Konstruksi Bangunan"},
+ {"id": 3, "nama": "Maulidya", "jk": "Perempuan", "bidangStudi": "Tahfiz"}
  ]
 }
