@@ -1,0 +1,12 @@
+{
+"guru":[
+{"id": 1,
+ "nama": "Muhammad Askar",
+ "jenisKelamin": "Laki-laki",
+ "bidangStudi": "Teknik Informatika"},
+{"id": 2,
+ "nama": "Muhammad Aswad",
+ "jenisKelamin": "Laki-laki",
+ "bidangStudi": "Teknik Konstruksi Bangunan"}
+]
+}
