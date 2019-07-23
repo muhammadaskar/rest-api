@@ -1,13 +1,16 @@
 {
- "calories":[
+ "guru":[
  {"id": 1,
-  "food": "bakso",
-  "calory": 100},
+  "nama": "Muhammad Askar",
+  "jenisKelamin": "Laki-laki",
+  "bidangStudi": "Sistem Informasi"},
  {"id": 2,
-  "food": "coto",
-  "calory": 100},
+  "nama": "Muhammad Aswad",
+  "jenisKelamin": "Laki-laki",
+  "bidangStudi": "Teknik Konstruksi Bangunan"},
  {"id": 3,
-  "food": "Mie Ayam",
-  "calory": 100}
+  "nama": "Maulidya",
+  "jenisKelamin": "Perempuan",
+  "bidangStudi": "Matematika"}
  ]
 }
