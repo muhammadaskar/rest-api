@@ -1,16 +1,13 @@
 {
- "calories":[
+ "guru":[
  {"id": 1,
   "nama": "Muhammad Askar",
-  "jenisKelamin": "Laki-laki",
-  "bidangStudi": "Sistem Informasi"},
+  "jenis": "Laki-laki"},
  {"id": 2,
   "nama": "Muhammad Aswad",
-  "jenisKelamin": "Laki-laki",
-  "bidangStudi": "Teknik Konstruksi Bangunan"},
+  "jenis": "Laki-laki"},
  {"id": 3,
   "nama": "Maulidya",
-  "jenisKelamin": "Perempuan",
-  "bidangStudi": "Matematika"}
+  "jenis": "Perempuan"}
  ]
 }
