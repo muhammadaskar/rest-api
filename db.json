@@ -1,6 +1,6 @@
 {
  "teacher":
- [{"id": 1, "nama": "Muhammad Askar", "jenis": "Pria"},
- {"id": 2, "nama": "Muhammad Aswad", "jenis": "Pria"},
- {"id": 3, "nama": "Maulidya", "jenis": "Perempuan"}]
+ [{"id": 1, "nama": "Muhammad Askar", "jenis": "Pria", "bidang": "Pemrograman Lanjut"},
+ {"id": 2, "nama": "Muhammad Aswad", "jenis": "Pria", "bidang": "Konstruksi Bangunan"},
+ {"id": 3, "nama": "Maulidya", "jenis": "Perempuan", "bidang": "Matematika"}]
 }
