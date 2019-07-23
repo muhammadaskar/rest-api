@@ -1,0 +1,16 @@
+{
+ "guru":[
+ {"id": 1,
+  "nama": "Muhammad Askar",
+  "jenisKelamin": "Laki-laki",
+  "bidangStudi": "Sistem Informasi"},
+ {"id": 2,
+  "nama": "Muhammad Aswad",
+  "jenisKelamin": "Laki-laki",
+  "bidangStudi": "Teknik Konstruksi Bangunan"},
+ {"id": 3,
+  "nama": "Maulidya",
+  "jenisKelamin": "Perempuan",
+  "bidangStudi": "Matematika"}
+ ]
+}
