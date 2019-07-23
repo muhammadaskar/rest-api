@@ -1,6 +1,6 @@
 {
  "teacher":
- [{"id": 1, "nama": "Muhammad Askar", "jenis": "Pria", "bidang": "Pemrograman Lanjut"},
- {"id": 2, "nama": "Muhammad Aswad", "jenis": "Pria", "bidang": "Konstruksi Bangunan"},
- {"id": 3, "nama": "Maulidya", "jenis": "Perempuan", "bidang": "Matematika"}]
+ [{"id": 1, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/47-nurse-512.png" , "nama": "Muhammad Askar", "jenis": "Pria", "bidang": "Pemrograman Lanjut"},
+ {"id": 2, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/24-Miner-512.png", "nama": "Muhammad Aswad", "jenis": "Pria", "bidang": "Konstruksi Bangunan"},
+ {"id": 3, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/55-woman-256.png", "nama": "Maulidya", "jenis": "Perempuan", "bidang": "Matematika"}]
 }
