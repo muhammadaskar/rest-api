@@ -1,17 +1,6 @@
 {
-  "dessert": [{
-      "id": 1,
-      "imgView": "https://sahabatnesia.com/wp-content/uploads/2017/11/1-8.jpg",
-      "nama": "Coto Makassar",
-      "jenis": "Makanan",
-      "deskripsi": "Coto makassar atau coto mangkasara adalah makanan tradisional Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan (isi perut) sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris lalu dibumbui dengan bumbu yang diracik secara khusus. Coto dihidangkan dalam mangkuk dan dinikmati dengan ketupat dan burasa atau yang biasa dikenal sebagai buras, yakni sejenis ketupat yang dibungkus daun pisang."
-    },
-    {
-      "id": 1,
-      "imgView": "https://sahabatnesia.com/wp-content/uploads/2017/11/2-8.jpg",
-      "nama": "Sop Saudara",
-      "jenis": "Makanan",
-      "deskripsi": "Sop saudara merupakan masakan khas dari Sulawesi Selatan berupa hidangan berkuah dengan bahan dasar daging sapi yang biasanya disajikan bersama bahan pelengkap seperti bihun, perkedel kentang, jeroan sapi (misalnya, paru goreng), dan telur rebus. Masakan ini umum dikonsumsi bersama dengan nasi putih dan ikan bolu (bandeng) bakar."
-    }
+  "dessert": [
+    {"id": 1, "imgView": "https://sahabatnesia.com/wp-content/uploads/2017/11/1-8.jpg", "nama": "Coto Makassar", "jenis": "Makanan", "deskripsi": "Coto makassar atau coto mangkasara adalah makanan tradisional Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan (isi perut) sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris lalu dibumbui dengan bumbu yang diracik secara khusus. Coto dihidangkan dalam mangkuk dan dinikmati dengan ketupat dan burasa atau yang biasa dikenal sebagai buras, yakni sejenis ketupat yang dibungkus daun pisang."},
+    {"id": 1, "imgView": "https://sahabatnesia.com/wp-content/uploads/2017/11/2-8.jpg", "nama": "Sop Saudara", "jenis": "Makanan", "deskripsi": "Sop saudara merupakan masakan khas dari Sulawesi Selatan berupa hidangan berkuah dengan bahan dasar daging sapi yang biasanya disajikan bersama bahan pelengkap seperti bihun, perkedel kentang, jeroan sapi (misalnya, paru goreng), dan telur rebus. Masakan ini umum dikonsumsi bersama dengan nasi putih dan ikan bolu (bandeng) bakar."}
   ]
 }
