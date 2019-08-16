@@ -1,9 +1,7 @@
 {
- "teacher":
- [{"id": 1, "imgView": "https://cdn.onlinewebfonts.com/svg/img_191958.png" , "nama": "Muhammad Askar", "jenis": "Pria", "bidang": "Pemrograman Lanjut"},
- {"id": 2, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/24-Miner-512.png", "nama": "Muhammad Aswad", "jenis": "Pria", "bidang": "Konstruksi Bangunan"},
- {"id": 3, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/55-woman-256.png", "nama": "Maulidya", "jenis": "Perempuan", "bidang": "Matematika"},
- {"id": 4, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/21-Man-512.png" , "nama": "Umar Bin Khattab", "jenis": "Pria", "bidang": "Ilmu Fiqih"},
- {"id": 5, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/28-man-256.png" , "nama": "Bilal Bin Rabah", "jenis": "Pria", "bidang": "Adzan"},
- {"id": 6, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/04-man-512.png" , "nama": "Abu Bakar", "jenis": "Pria", "bidang": "Tahfiz"},
- {"id": 7, "imgView": "https://cdn1.iconfinder.com/data/icons/user-avatar-20/64/37-Guard-256.png" , "nama": "Umar Abdul Aziz", "jenis": "Pria", "bidang": "Bahasa Arab"}]};
+  "calories": [
+    { "id": 1, "food": "Rawon", "calory": 100 },
+    { "id": 2, "food": "Gado-gado", "calory": 100 },
+    { "id": 3, "food": "Indomie", "calory": 100 }
+  ]
+}
